@@ -1,5 +1,5 @@
 # wshtdt - When Something Happens Then Do This
-PHP Open Source version of services like IFTTT or Zapier.
+PHP Open Source version of services like IFTTT or Zapier. If you want to use this, you have to host it yourself.
 
 ## Events and Actions
 When something happens, this can be detected via **Events**. Depending on what **Events** were detected one or more **Actions** can be triggered. 
