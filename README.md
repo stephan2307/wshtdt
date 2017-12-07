@@ -17,3 +17,12 @@ When something happens, this can be detected via **Events**. Depending on what *
 - Twitter
 - Instagram
 - Facebook
+- Slack
+- Hipchat
+- github
+- Mailchimp
+- Pinterest
+- Trello
+- Dropbox
+- Evernote
+- Bitbucket
